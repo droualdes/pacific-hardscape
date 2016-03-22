@@ -1,0 +1,39 @@
+/*
+Error: Invalid CSS after "...stom-variables"": expected "{", was ";"
+        on line 7 of /Users/davidp/Sites/pacific-pavers-stone/css/styles.scss
+
+2: # Front matter comment to ensure Jekyll properly reads file.
+3: ---
+4: 
+5: // import partials
+6: 
+7: @import "../_sass/custom-variables";
+8: @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+9: @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass"; // What does this do?
+10: @import "../bower_components/font-awesome/css/font-awesome.min.css";
+11: @import "../_sass/base";
+
+Backtrace:
+/Users/davidp/Sites/pacific-pavers-stone/css/styles.scss:7
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1179:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1115:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1110:in `tok!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:654:in `block'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:647:in `ruleset'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:673:in `block_child'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:663:in `block_contents'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:123:in `stylesheet'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:39:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:403:in `_to_tree'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:378:in `_render_with_sourcemap'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:295:in `render_with_sourcemap'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:414:in `run'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:52:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:19:in `parse!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/bin/scss:13:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"...stom-variables\"\": expected \"{\", was \";\"\A         on line 7 of /Users/davidp/Sites/pacific-pavers-stone/css/styles.scss\A \A 2: # Front matter comment to ensure Jekyll properly reads file.\A 3: ---\A 4: \A 5: // import partials\A 6: \A 7: @import \"../_sass/custom-variables\";\A 8: @import \"../bower_components/bootstrap-sass/assets/stylesheets/bootstrap\";\A 9: @import \"../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass\"; // What does this do?\A 10: @import \"../bower_components/font-awesome/css/font-awesome.min.css\";\A 11: @import \"../_sass/base\";"; }

@@ -1,0 +1,471 @@
+// ===================================================
+// Common
+// ===================================================
+
+$blue: #538dbe;
+$orange: #ff7f00;
+$light-grey: #bfbfbf;
+
+html {
+}
+
+body {
+// background-color: #f3f3f3;
+// background-image: url('/images/background.png');
+font-family: $font-family-sans-serif;
+}
+
+// ===================================================
+// Typography
+// ===================================================
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+font-family: $font-family-serif;
+}
+
+h1, .h1 {
+font-size: $font-size-h1;
+}
+
+h2, .h2 {
+font-size: $font-size-h2;
+}
+
+h3, .h3 {
+font-size: $font-size-h3;
+}
+
+h4, .h4 {
+font-size: $font-size-h4;
+}
+
+h5, .h5 {
+font-size: $font-size-h5;
+}
+
+h6, .h6 {
+font-size: $font-size-h6;
+}
+
+p, ul, li {
+font-family: $font-family-sans-serif;
+font-weight: 300;
+font-size: 1em;
+}
+
+.lead {
+font-size: 1.1em;
+line-height: 2em;
+}
+
+// ===================================================
+// Links
+// ===================================================
+
+a {
+color: $blue;
+}
+
+a:hover, a:focus {
+text-decoration: none;
+color: $orange;
+}
+
+// ===================================================
+// Buttons
+// ===================================================
+
+.btn-lg {
+padding: 8px 20px 6px 20px;
+font-size: 1em;
+border-radius: 24px;
+-webkit-border-radius: 24px;
+-moz-border-radius: 24px;
+border: none;
+}
+
+.btn-primary {
+background-color: $blue;
+font-family: $font-family-sans-serif;
+font-weight: 700;
+border-color: #fff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+background-color: $orange;
+border-color: #fff;
+}
+
+
+// ===================================================
+// Tables
+// ===================================================
+
+.table > thead > tr > th, .table > thead > tr > td, .table > tbody > tr > th, .table > tbody > tr > td, .table > tfoot > tr > th, .table > tfoot > tr > td {
+line-height: 2em;
+}
+
+// ===================================================
+// Navbar
+// ===================================================
+
+.navbar {
+background-color: #fff;
+margin-bottom: 0;
+border-top: none;
+border-right: none;
+border-left: none;
+border-bottom: 1px solid #d9d9d9;
+font-family: $font-family-serif;
+}
+
+// Company Name
+.navbar-default .navbar-brand {
+font-weight: 700;
+color: $blue;
+}
+
+// Company Name on Hover, Focus & Active
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:active {
+color: $orange;
+}
+
+// // Main Menu Text
+// .navbar-default .navbar-nav > li > a {
+// color: $text-color;
+// }
+
+// Main Menu Text on Hover, Focus & Active
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:active {
+color: $orange;
+}
+
+// Main Menu Text - Controls header of a submenu
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus,  .navbar-default .navbar-nav > .open > a:active {
+background-color: #fff;
+color: $orange;
+}
+
+// Main Menu Text - Controls submenu when Services or Products is Open
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+color: $orange;
+}
+
+// Controls color of submenu text
+.dropdown-menu a {
+font-weight: 900;
+}
+
+// Controls color of submenu text
+.dropdown-menu > li > a {
+color: $text-color;
+font-weight: 300;
+}
+
+// Controls color of submenu background on hover or focus
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+background-color: #fff;
+}
+
+// ===================================================
+// Carousel
+// ===================================================
+
+.carousel {
+max-height: 680px;
+overflow: hidden;
+// width:100%; 
+// margin: 0 auto; center
+}
+
+.slider-size {
+height: 680px; /* This is your slider height */
+}
+
+.carousel-control {
+top: 300px; // This needs to be half of carousel height minus half of arrow (control) height.
+}
+
+.carousel-control.left, .carousel-control.right {
+background-image: none;
+}
+
+.carousel-caption {
+width: 80%;
+left: 10%;
+bottom: 10% !important;
+text-shadow: 0 2px 24px rgba(0, 0, 0, .75);
+}
+
+.carousel-caption h1 {
+font-family: $font-family-serif;
+font-weight: 900;
+margin-top: 0;
+}
+
+// ===================================================
+// Carousel: Screen Size Adjustments
+// ===================================================
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+
+.carousel-caption h1 {
+font-size: 2.8em;
+}
+
+.rwd-line {
+display: block;
+}
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+
+.carousel-caption h1 {
+font-size: 2.8em;
+}
+
+.rwd-line {
+display: block;
+}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+.carousel-caption h1 {
+font-size: 3.2em;
+}
+
+.rwd-line {
+display: block;
+}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+.carousel-caption h1 {
+font-size: 4em;
+}
+
+.rwd-line {
+display: block;
+}
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+.carousel-caption h1 {
+font-size: 4em;
+}
+
+.rwd-line {
+display: block;
+}
+
+}
+
+.carousel-caption p {
+font-size: 1.5em;
+margin-bottom: 20px;
+}
+
+// Carousel fade functions
+.carousel-fade .carousel-inner .item {
+-webkit-transition-property: opacity;
+transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+left: 0;
+-webkit-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+z-index: 2;
+}
+
+// ===================================================
+// Introduction
+// ===================================================
+
+.introduction {
+text-align: center;
+padding-top: 60px;
+padding-bottom: 70px;
+}
+
+.introduction h2 {
+margin-bottom: 20px;
+}
+
+.introduction p {
+margin-bottom: 50px;
+}
+
+// ===================================================
+// Panel
+// ===================================================
+
+.panel {
+margin: 0;
+text-align: center;
+padding: 0;
+margin-top: 0px;
+margin-bottom: 20px;
+border-radius: 0;
+box-shadow: none; // 0 1px 1px #d9d9d9;
+}
+
+.panel h2 {
+font-family: $font-family-sans-serif;
+font-size: 1em;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+.panel img {
+overflow: hidden;
+width: 100%;
+height: 100%;
+}
+
+// ===================================================
+// Services
+// ===================================================
+
+.services {
+margin-top: 60px;
+margin-bottom: 40px;
+}
+
+.services .lead {
+font-size: 1.4em;
+}
+
+// ===================================================
+// Services: Screen Size Adjustments
+// ===================================================
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+
+.introduction .rwd-line {
+display: block;
+}
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+
+.introduction .rwd-line {
+display: block;
+}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+.introduction .rwd-line {
+display: inline-block;
+}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+.introduction .rwd-line {
+display: inline-block;
+}
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+.introduction .rwd-line {
+display: inline-block;
+}
+
+}
+
+// ===================================================
+// Products
+// ===================================================
+
+.products {
+margin-top: 60px;
+margin-bottom: 40px;
+}
+
+.overview {
+margin-bottom: 20px;
+}
+
+.overview div.col-xs-12:first-child { // Controls the space between swatch text info and the start of the swatches themselves
+margin-bottom: 30px;
+}
+
+.breadcrumb {
+border-bottom: 1px solid #e6e6e6;
+background-color: inherit;
+padding: 0;
+margin-bottom: 50px;
+}
+
+.details:hover {
+color: #fff;
+}
+
+// ===================================================
+// Warranty, Privacy, Terms
+// ===================================================
+
+.warranty, .privacy, .terms, .incentives, .quality, .aboutus {
+margin-top: 80px;
+margin-bottom: 80px;
+}
+
+// .warranty a, .privacy a, .terms a {
+// color: $light-grey;
+// }
+
+// .warranty a:hover, .warranty a:focus, .privacy a:hover, .privacy a:focus, .terms a:hover, .terms a:focus {
+// color: $text-color;
+// }
+
+// ===================================================
+// Footer
+// ===================================================
+
+footer {
+font-family: $font-family-sans-serif;
+font-weight: 300;
+padding-top: 0px;
+padding-bottom: 40px;
+margin-top: 40px;
+line-height: 2em;
+color: inherit;
+}

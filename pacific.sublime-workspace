@@ -1,0 +1,531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backr",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"img-",
+				"img-thumbnail"
+			],
+			[
+				"pddin",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 8947,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/aqua-roc/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-europa/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-europa/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-classic/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-classic/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/classic-cobble/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/turfstone/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/turfstone/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/symetry/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/symetry/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/quarry-stone-versailles/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/quarry-stone-versailles/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/quarry-stone/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/quarry-stone/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/permeable-quarry-stone/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/permeable-quarry-stone/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/permeable-mission/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/permeable-mission/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/mission/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/mission/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/classic-cobble/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/belgian-stone/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/belgian-stone/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/antiqued-mission/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/antiqued-mission/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/antiqued-cobble/patterns/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/antiqued-cobble/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/bullnose/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-classic/patterns/images/2-course-lite.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/pavestone/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/turfstone/patterns/images/turf2patternB40.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/turfstone/patterns/images/turf1pattern.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/turfstone/patterns/images/turf2patternB40.2.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/symetry/patterns/images/grand-parquet.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/symetry/patterns/images/venetian-parquet.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/quarry-stone-versailles/patterns/images/versailles-1.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/permeable-mission/patterns/images/45-degree-herringbone.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/pavers/antiqued-mission/patterns/images/varozza.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/_sass/_base.scss",
+		"/Users/davidp/Sites/pacific-pavers-stone/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/_sass/_custom-variables.scss",
+		"/Users/davidp/Sites/pacific-pavers-stone/_config.yml",
+		"/Users/davidp/Sites/pacific-pavers-stone/_includes/icon-twitter.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/_includes/header.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/_includes/footer.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/css/styles.scss",
+		"/Users/davidp/Sites/pacific-pavers-stone/aboutus/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/whyus/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/_includes/head.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/qualityspecifications/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/terms/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/canyon-cobblestone-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/mega-arbel/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/masonry/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/bullnose/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/wall-blocks/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/wall-blocks/versalok/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/wall-blocks/square-foot/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/wall-blocks/mosaic/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/wall-blocks/handy-scape/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/wall-blocks/corsican/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/tango-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/slatestone-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/permeable-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/old-country-cobblestone-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/hollandstone-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/cobblestone-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/pavers/belgian-cobblestone-pavers/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/mcnear/bullnose/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/wall-blocks/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/wall-blocks/celtik/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/wall-blocks/belair/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/urbana/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/subterra/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/old-world/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/mega-lafitt/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/mega-bergerac/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/dublin-cobble/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/dublin/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/catalina-modular/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/catalina/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/cambridge-cobble-tumbled/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/cambridge-cobble/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/belgard/pavers/bergerac/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/pacific.sublime-project",
+		"/Users/davidp/Sites/pacific-pavers-stone/warranty/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/quality/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/privacy/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/incentives/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/blog/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/downloads/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/driveways/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/pooldecks/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/walkways/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/syntheticgrass/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/steps/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/retainingwalls/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/pergolas/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/patios/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/outdoorkitchens/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/masonry/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/landscapelighting/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/firefeatures/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/lighting/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/kitchens/index.html",
+		"/Users/davidp/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/ADF4FC29-849C-47F1-894A-A1DEB6FB74CB/message_zdm.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/fire/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/walls/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/services/grass/index.html",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-classic/images/calstone-allan-block-classic-brown-charcoal.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-europa/images/calstone-allan-block-europa-brown-charcoal.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/calstone/wall-blocks/allan-block-europa/images/calstone-allan-block-europa-gold-brown.jpg",
+		"/Users/davidp/Sites/pacific-pavers-stone/css/styles.css",
+		"/Users/davidp/Sites/pacific-pavers-stone/downloads/pavestone-product-catalog.pdf",
+		"/Users/davidp/Sites/pacific-pavers-stone/products/unused/pavestone-new/Paverstone-Brochure.pdf",
+		"/Users/davidp/Sites/pacific-pavers-stone/downloads/calstone-paving-stone-catalog.pdf",
+		"/Users/davidp/Sites/pacific-pavers-stone/downloads/belgard-product-catalog.pdf",
+		"/Users/davidp/Sites/pacific-pavers-stone/downloads/belgard-aqua-roc.pdf",
+		"/Users/davidp/Sites/pacific-pavers-stone/downloads/belgard-subterra.pdf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/davidp/Sites/pacific-pavers-stone/products/",
+			"/Users/davidp/Sites/pacific-pavers-stone",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			" no-gutter",
+			"panel",
+			"h5",
+			"h4",
+			"h3",
+			"h2",
+			"h3",
+			"<h3>",
+			"<h2>",
+			"font-weight",
+			"<h3>",
+			"Antiqued Cobble",
+			"antiqued-cobble",
+			"Antiqued Cobble",
+			"antiqued-cobble",
+			"Quarry Stone ",
+			"quarry-stone-",
+			"Antiqued Cobble",
+			"antiqued-cobble",
+			"Antiqued Cobble",
+			"antiqued",
+			"Antiqued Cobble",
+			"antiqued",
+			"-4x8",
+			"_4x8",
+			"belgard",
+			"mcnear",
+			"/products/calstone/bullnose/",
+			"/photos/home/",
+			"/photos-home/",
+			"/photos/",
+			"images/pavers/",
+			"/products/mcnear/pavers/",
+			"pavers/tango/",
+			"pavers/slatestone/",
+			"pavers/permeable/",
+			"pavers/old-country-cobblestone/",
+			"pavers/hollandstone/",
+			"pavers/cobblestone/",
+			"pavers/canyon-cobblestone/",
+			"pavers/belgian-cobblestone/",
+			"pavers/symetry/",
+			"pavers/river-rock/",
+			"pavers/quarry-stone/",
+			"pavers/plaza/",
+			"pavers/permeable-quarry-stone/",
+			"pavers/permeable/",
+			"pavers/mission/",
+			"pavers/flagstone/",
+			"pavers/classic-cobble",
+			"pavers/bishops-hat",
+			"pavers/athens",
+			"h4",
+			"panel",
+			"a {",
+			"panel",
+			"nav",
+			"<h2>",
+			"h2",
+			" class=\"panel\"",
+			"#",
+			"================================",
+			".small",
+			"small",
+			"nav",
+			"small",
+			"introdu",
+			"introduction",
+			"navbar",
+			"col-xs-4",
+			"col-xs-12 col-sm-6",
+			"col-xs-12 col-sm-6 col-md-4",
+			"col-xs-6 col-sm-4 col-md-3 col-lg-2",
+			"col-xs-12 col-sm-6 col-md-4 col-lg-3",
+			"col-xs-12 col-sm-6",
+			"navbar",
+			"orange",
+			"navbar",
+			"boostrap.css.map",
+			"rollover",
+			"greyscale",
+			"navbar",
+			"panel",
+			"col-md-6",
+			"services",
+			"SMALL",
+			"col-xs-12 col-md-6",
+			"footer",
+			"/walls/",
+			" width=\"158\" height=\"158\"",
+			"Suggested Links",
+			"h2 class=\"caption\"",
+			"welcome",
+			" class=\"caption\"",
+			"bread",
+			" class=\"caption\"",
+			" class=\"panel\"",
+			" class=\"caption\"",
+			"div class=\"panel\"",
+			"overview",
+			" class=\"caption\"",
+			" sample",
+			"width=\"158\" height=\"158\" ",
+			"h3",
+			"filter: progid: ",
+			"filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#80000000',",
+			"http://bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.css",
+			"{{ site.baseurl }}",
+			"th",
+			"td",
+			"h4",
+			"h3",
+			"col-xs-12 col-md-6",
+			"col-xs-6 col-md-6",
+			"</h2 class=\"caption\">",
+			"				<div class=\"panel\">\n",
+			"h2 class=\"h4\"",
+			"col-xs-12 col-md-6",
+			"</a>",
+			"<br>",
+			"width=\"158\" height=\"158\" ",
+			"<img",
+			"<ig",
+			"span",
+			"col3",
+			"col2",
+			"col1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/blocks/",
+			"",
+			"More Information",
+			"h2",
+			"col-xs-12 col-sm-6 col-md-4",
+			"div",
+			"<div class=\"col-xs-12\">",
+			" -->",
+			"<!-- ",
+			"<!--",
+			" ",
+			" XXX ",
+			"<!-- * * * ",
+			"* * * ",
+			"***",
+			"h3",
+			"fh3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_sass/_base.scss",
+					"settings":
+					{
+						"buffer_size": 8947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8048,
+								8048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 159.0,
+						"translation.y": 6536.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/davidp/Sites/virtualtuneup/virtualtuneup.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true
+}
