@@ -10,9 +10,8 @@ html {
 }
 
 body {
-// background-color: #f3f3f3;
-// background-image: url('/images/background.png');
 font-family: $font-family-sans-serif;
+color: #666666;
 }
 
 // ===================================================
@@ -21,6 +20,8 @@ font-family: $font-family-sans-serif;
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 font-family: $font-family-serif;
+font-weight: 700;
+margin-bottom: 20px;
 }
 
 h1, .h1 {
@@ -51,6 +52,10 @@ p, ul, li {
 font-family: $font-family-sans-serif;
 font-weight: 300;
 font-size: 1em;
+}
+
+p {
+margin-bottom: 20px;
 }
 
 .lead {
@@ -95,7 +100,6 @@ border-color: #fff;
 background-color: $orange;
 border-color: #fff;
 }
-
 
 // ===================================================
 // Tables
@@ -282,16 +286,19 @@ margin-bottom: 20px;
 -webkit-transition-property: opacity;
 transition-property: opacity;
 }
+
 .carousel-fade .carousel-inner .item,
 .carousel-fade .carousel-inner .active.left,
 .carousel-fade .carousel-inner .active.right {
 opacity: 0;
 }
+
 .carousel-fade .carousel-inner .active,
 .carousel-fade .carousel-inner .next.left,
 .carousel-fade .carousel-inner .prev.right {
 opacity: 1;
 }
+
 .carousel-fade .carousel-inner .next,
 .carousel-fade .carousel-inner .prev,
 .carousel-fade .carousel-inner .active.left,
@@ -300,6 +307,7 @@ left: 0;
 -webkit-transform: translate3d(0, 0, 0);
 transform: translate3d(0, 0, 0);
 }
+
 .carousel-fade .carousel-control {
 z-index: 2;
 }
@@ -338,6 +346,7 @@ box-shadow: none; // 0 1px 1px #d9d9d9;
 
 .panel h2 {
 font-family: $font-family-sans-serif;
+font-weight: 500;
 font-size: 1em;
 margin-top: 20px;
 margin-bottom: 10px;
@@ -350,13 +359,17 @@ height: 100%;
 }
 
 // ===================================================
-// Services
+// Common
 // ===================================================
 
-.services {
+.services, .products, .warranty, .privacy, .terms, .incentives, .quality, .whyus, .superiority, .blog, .downloads {
 margin-top: 60px;
-margin-bottom: 40px;
+margin-bottom: 30px;
 }
+
+// ===================================================
+// Services
+// ===================================================
 
 .services .lead {
 font-size: 1.4em;
@@ -415,16 +428,7 @@ display: inline-block;
 // Products
 // ===================================================
 
-.products {
-margin-top: 60px;
-margin-bottom: 40px;
-}
-
-.overview {
-margin-bottom: 20px;
-}
-
-.overview div.col-xs-12:first-child { // Controls the space between swatch text info and the start of the swatches themselves
+.swatches {
 margin-bottom: 30px;
 }
 
@@ -440,23 +444,6 @@ color: #fff;
 }
 
 // ===================================================
-// Warranty, Privacy, Terms
-// ===================================================
-
-.warranty, .privacy, .terms, .incentives, .quality, .aboutus {
-margin-top: 80px;
-margin-bottom: 80px;
-}
-
-// .warranty a, .privacy a, .terms a {
-// color: $light-grey;
-// }
-
-// .warranty a:hover, .warranty a:focus, .privacy a:hover, .privacy a:focus, .terms a:hover, .terms a:focus {
-// color: $text-color;
-// }
-
-// ===================================================
 // Footer
 // ===================================================
 
@@ -465,7 +452,6 @@ font-family: $font-family-sans-serif;
 font-weight: 300;
 padding-top: 0px;
 padding-bottom: 40px;
-margin-top: 40px;
 line-height: 2em;
 color: inherit;
 }

@@ -1,25 +1,43 @@
 ---
 layout: default
 ---
-  <article class="container blog" id="{{ page.title }}">
-    <div class="row">
-      <div class="col-md-10 col-md-offset-1">
-      	<h2>
-      		{{ page.title }}
-      	</h2>
-      <p class="author">
-        <span class="glyphicon glyphicon-book">
-        </span> Written by {{ page.author }}, Posted on {{ page.date | date: '%B %d, %Y' }}
-      </p>
-      	<div class="addthis_toolbox addthis_default_style addthis_16x16_style addthis-padding" addthis:title="{{ page.title }}">
-      		<a class="addthis_button_facebook">
-      		</a>
-      		<a class="addthis_button_twitter">
-      		</a>
-      		<a class="addthis_button_pinterest_share">
-      		</a>
-      		<a class="addthis_button_email">
-      		</a>
-      	</div>
-      	{{ content }}
-	</article>
+<article class="container blog" id="{{ page.title }}">
+	<div class="row">
+		<div class="col-md-10 col-md-offset-1">
+			<ul class="breadcrumb">
+				<li>
+					<a href="{{ site.baseurl }}/#">
+						<span class="fa fa-home"></span>
+					</a>
+				</li>
+				<li>
+					<a href="{{ site.baseurl }}/blog#">
+						Blog
+					</a>
+				</li>
+				<li class="active">
+					{{ page.title }}
+				</li>
+			</ul>
+			<h2>
+				{{ page.title }}
+			</h2>
+			<p class="author">
+				<span class="fa fa-book">
+				</span>
+				&nbsp;Written by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}
+			</p>
+			<div class="addthis_toolbox addthis_default_style addthis_16x16_style addthis-padding" addthis:title="{{ page.title }}">
+				<a class="addthis_button_facebook">
+				</a>
+				<a class="addthis_button_twitter">
+				</a>
+				<a class="addthis_button_pinterest_share">
+				</a>
+				<a class="addthis_button_email">
+				</a>
+			</div>
+			{{ content }}
+		</div>
+	</div>
+</article>
